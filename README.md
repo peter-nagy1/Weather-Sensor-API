@@ -14,8 +14,8 @@ A proof-of-concept for an app that collects and queries weather data from sensor
 
 ```bash
 # Clone repo
-git clone https://github.com/<a>/<b>.git
-cd <b>
+git clone https://github.com/peter-nagy1/Weather-Sensor-API.git
+cd Weather-Sensor-API
 
 # Install requirements
 pip install -r requirements.txt
