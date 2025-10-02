@@ -39,7 +39,7 @@ curl -X POST "http://127.0.0.1:8000/sensors/1/data" \
 ### 2. Query sensor data
 
 ```bash
-curl "http://127.0.0.1:8000/query?sensors=1&metrics=temperature&statistic=avg&date_range=10"
+curl "http://127.0.0.1:8000/query/?sensors=1&metrics=temperature&statistic=avg&date_range=10"
 ```
 
 ---
